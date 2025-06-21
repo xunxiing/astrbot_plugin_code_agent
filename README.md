@@ -3,7 +3,7 @@
 
 这是一个为 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 设计的强大插件，它在机器人内部集成了一个能够理解自然语言、编写并执行代码的编程智能体。
 
-本插件基于优秀的开源项目 [smol-agents](https://github.com/huggingface/smol-agents) 构建，并通过一个特制的“桥接器”，使其能够完全利用您在 AstrBot 中已经配置好的任何大语言模型（如 OpenAI, Gemini, Ollama, Groq 等）。
+本插件基于优秀的开源项目 [[smol-agents](https://github.com/huggingface/smol-agents)](https://github.com/huggingface/smolagents.git) 构建，并通过一个特制的“桥接器”，使其能够完全利用您在 AstrBot 中已经配置好的任何大语言模型（如 OpenAI, Gemini, Ollama, Groq 等）。
 
 ---
 
