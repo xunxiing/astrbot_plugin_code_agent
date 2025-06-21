@@ -97,7 +97,7 @@
 
 ## ❤️ 反馈与贡献
 
-如果您在使用过程中遇到任何问题、有好的建议，或者发现了 Bug，欢迎在本仓库的 [Issues](https://github.com/YourUsername/astrabot_plugin_code_agent/issues) 页面提出！
+如果您在使用过程中遇到任何问题、有好的建议，或者发现了 Bug，欢迎在本仓库的 https://github.com/xunxiing/astrbot_plugin_code_agent.git 页面提出！
 
 同样欢迎您通过 Pull Request 为本插件贡献代码。
 
