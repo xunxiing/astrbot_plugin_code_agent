@@ -104,6 +104,3 @@
 ---
 ```
 
-**使用前，请务必修改一处地方：**
-
-*   在 `反馈与贡献` 部分，将链接 `https://github.com/YourUsername/astrabot_plugin_code_agent/issues` 中的 `YourUsername` 和 `astrabot_plugin_code_agent` 替换为您自己的 GitHub 用户名和仓库名。
