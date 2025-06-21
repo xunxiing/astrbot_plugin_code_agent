@@ -1,0 +1,8 @@
+{
+    "max_iterations": {
+        "description": "智能体执行任务的最大迭代次数",
+        "type": "int",
+        "default": 7,
+        "hint": "防止智能体陷入死循环或执行时间过长，影响机器人性能。"
+    }
+}

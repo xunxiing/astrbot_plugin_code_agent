@@ -1,0 +1,6 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 插件生成的临时文件
+temp/
