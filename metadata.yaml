@@ -22,7 +22,7 @@ description: >-
   请仅在完全受信任的环境中安装和使用此插件，并了解其可能带来的后果。
 
 # 插件的源代码仓库地址
-repo_url: https://github.com/YourUsername/astrobot_plugin_code_agent # <-- 请替换为您的仓库地址
+repo_url: https://github.com/YourUsername/astrbot_plugin_code_agent # <-- 请替换为您的仓库地址
 
 # 帮助用户发现插件的标签
 tags:
